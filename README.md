@@ -29,4 +29,4 @@
 | 7 сентября  | Семинар 1  | <ul><li>Табличные данные</li><li>Разведочный анализ</li></ul> | [Ноутбук](https://github.com/mmp-mmro-team/mmp_mmro_fall_2020/blob/master/seminars/sem01-pandas-mmp.ipynb) | [ДЗ на разведочный анализ данных](https://github.com/mmp-mmro-team/mmp_mmro_fall_2020/blob/master/homework-practice/hw-practice-1.ipynb) |
 | 14 сентября  | Семинар 2  | <ul><li>kNN</li></ul> | [Семинар](https://github.com/mmp-mmro-team/mmp_mmro_fall_2020/blob/master/seminars/sem02_knn.pdf) | ¯\\\_(ツ)\_/¯ |
 | 21 сентября  | Семинар 3  | <ul><li>Sklearn</li><li>Линейная регрессия</li></ul> | [Ноутбук](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/seminars/sem02-sklearn-linregr.ipynb) | ¯\\\_(ツ)\_/¯ |
-| 28 сентября  | Семинар 4  | <ul><li>kNN:быстрый поиск соседей</li></ul> |  | ¯\\\_(ツ)\_/¯ |
+| 28 сентября  | Семинар 4  | <ul><li>kNN:быстрый поиск соседей</li></ul> | [Семинар](https://github.com/mmp-mmro-team/mmp_mmro_fall_2020/blob/master/seminars/sem04_knn.pdf) | ¯\\\_(ツ)\_/¯ |

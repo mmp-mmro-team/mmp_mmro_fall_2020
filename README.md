@@ -44,3 +44,4 @@
 | 14 сентября  | Семинар 2  | <ul><li>kNN</li></ul> | [Семинар](https://github.com/mmp-mmro-team/mmp_mmro_fall_2020/blob/master/seminars/sem02_knn.pdf) | ¯\\\_(ツ)\_/¯ |
 | 21 сентября  | Семинар 3  | <ul><li>Sklearn</li><li>Линейная регрессия</li></ul> | [Ноутбук](https://github.com/mmp-mmro-team/mmp_mmro_fall_2020/blob/master/seminars/sem03-sklearn-linreg.ipynb) | ¯\\\_(ツ)\_/¯ |
 | 28 сентября  | Семинар 4  | <ul><li>kNN:быстрый поиск соседей</li></ul> | [Семинар](https://github.com/mmp-mmro-team/mmp_mmro_fall_2020/blob/master/seminars/sem04_knn.pdf) | ¯\\\_(ツ)\_/¯ |
+| 28 сентября  | Семинар 5  | <ul><li>Векторное и матричное дифференцирование</li></ul> | [Хороший cheat sheet по дифференцированию](https://github.com/mmp-mmro-team/mmp_mmro_fall_2020/blob/master/seminars/sem05_vect_matrix_diff.pdf) | ¯\\\_(ツ)\_/¯ |

@@ -51,3 +51,4 @@
 | 02 ноября  | Семинар 9  | <ul><li>Условная задача оптимизации</li><li>ККТ</li></ul> | <ul><li>[Семинар](https://github.com/mmp-mmro-team/mmp_mmro_fall_2020/blob/master/seminars/sem09_linear.pdf)</li><li>[Заметки о решении задачи условной оптимизации](https://github.com/mmp-mmro-team/mmp_mmro_fall_2019/blob/master/lecture-notes/Sem11_conditional_optimization.pdf)</li></ul>| ¯\\\_(ツ)\_/¯ |
 | 09 ноября  | Семинар 10  | <ul><li>Ядра</li><li>Двойственный SVM</li></ul> | [Семинар](https://github.com/mmp-mmro-team/mmp_mmro_fall_2020/blob/master/seminars/sem10-kernels.pdf)| ¯\\\_(ツ)\_/¯ |
 | 16 ноября  | Семинар 11  | Решающие деревья | [Семинар](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/seminars/sem07-trees.pdf)| ¯\\\_(ツ)\_/¯ |
+| 23 ноября  | Семинар 12  |  Bias-variance decomposition | [Семинар](https://github.com/mmp-mmro-team/mmp_mmro_fall_2020/blob/master/seminars/sem12-bvd.pdf)| ¯\\\_(ツ)\_/¯ |
